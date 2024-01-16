@@ -1,10 +1,12 @@
-# Teach AI To Play Snake! Reinforcement Learning With PyTorch and Pygame
+Bu Python Güçlendirme Öğrenme Eğitim Serisi'nde, bir yapay zeka programını Yılan oynamayı öğrenmeye yönlendireceğiz! Pygame ve PyTorch'u kullanarak her şeyi sıfırdan oluşturuyoruz. Eğitim serisi 4 bölümden oluşuyor:
 
-In this Python Reinforcement Learning Tutorial series we teach an AI to play Snake! We build everything from scratch using Pygame and PyTorch. The tutorial consists of 4 parts:
+Tüm öğreticilere kanalımdan ulaşabilirsiniz: Çalma Listesi
 
-You can find all tutorials on my channel: [Playlist](https://www.youtube.com/playlist?list=PLqnslRFeH2UrDh7vUmJ60YrmWd64mTTKV)
+Bölüm 1: Size projeyi tanıtacağım ve Güçlendirme Öğrenme ve Derin Q Öğrenme hakkında temel bilgileri öğreteceğim.
+Bölüm 2: Ortamı kurmayı öğrenin ve Yılan oyununu uygulayın.
+Bölüm 3: Oyunu kontrol eden ajanı uygulayın.
+Bölüm 4: Hareketleri tahmin etmek ve eğitmek için sinir ağı uygulayın.
 
-- Part 1: I'll show you the project and teach you some basics about Reinforcement Learning and Deep Q Learning.
-- Part 2: Learn how to setup the environment and implement the Snake game.
-- Part 3: Implement the agent that controls the game.
-- Part 4: Implement the neural network to predict the moves and train it.
+Bu eğitim serisinde, projenin genel yapısını anlamak için ilk bölümü izlemeniz, ardından sırasıyla ortamı kurmayı, ajanı uygulamayı ve sinir ağını eğitmeyi öğrenmeniz önemlidir. Dilerseniz tüm öğreticileri içeren çalma listesini ziyaret ederek bu adımları takip edebilirsiniz.
+
+Bu eğitim serisi, yapay zeka ve derin öğrenme konularına giriş yapmak ve bu konseptleri Python kullanarak uygulamak isteyenler için faydalı olabilir.
